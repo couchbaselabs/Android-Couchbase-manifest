@@ -13,5 +13,6 @@
 
   <project path="Android-Couchbase" name="Android-Couchbase" remote="couchbaselabs"/>
   <project path="EmptyApp" name="Android-EmptyApp" remote="couchbaselabs"/>
+  <project path="SourceBuild" name="Android-SourceBuild" remote="couchbaselabs"/>
 
 </manifest>
