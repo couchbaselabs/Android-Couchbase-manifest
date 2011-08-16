@@ -1,17 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 
-  <remote name="couchbaselabs"
-           fetch="git://github.com/couchbaselabs/"
-           review="review.couchbase.org" />
-
   <remote name="couchbase"
            fetch="git://github.com/couchbase/"
            review="review.couchbase.org" />
 
-  <default revision="master" remote="couchbaselabs" />
+  <default revision="master" remote="couchbase" />
 
-  <project path="Android-Couchbase" name="Android-Couchbase" remote="couchbaselabs"/>
-  <project path="EmptyApp" name="Android-EmptyApp" remote="couchbaselabs"/>
+  <project path="Android-Couchbase" name="Android-Couchbase" remote="couchbase"/>
+  <project path="EmptyApp" name="Android-EmptyApp" remote="couchbase"/>
 
 </manifest>
