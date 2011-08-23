@@ -18,6 +18,6 @@
 
   <project path="couchdb" name="couchdb" remote="couchbaselabs" revision="preview_android" />
   <project path="geocouch" name="geocouch" remote="couchbase" />
-  <project path="erlang" name="otp" remote="couchbaselabs" revision="android" />
+  <project path="erlang" name="otp" remote="couchbaselabs" revision="android_r14b03" />
 
 </manifest>
