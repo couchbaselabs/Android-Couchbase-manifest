@@ -17,7 +17,7 @@
            name="Android-Couchbase-SourceBuild" remote="couchbase"/>
 
   <project path="couchdb" name="couchdb" remote="couchbaselabs" revision="preview_android" />
-  <project path="geocouch" name="geocouch" remote="couchbase" />
+  <project path="geocouch" name="geocouch" remote="couchbase" revision="685db4d1ca21ea3d75519fc260e1d95395219ea8" />
   <project path="erlang" name="otp" remote="couchbaselabs" revision="android_r14b03" />
 
 </manifest>
